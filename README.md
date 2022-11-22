@@ -51,7 +51,7 @@ true
 ```
 
 TEST CASES:
-This file contains test cases to run your code on when you have it working. Most of the code has been written- you can finish implementing it and use it to fully test your SuperAnagram code. NOTE: do not submit this class to OWL. This is for your testing purposes only. If your code passes all of these tests your code is likely to get max points.
+This file contains test cases to run your code on when you have it working. Most of the code has been written- you can finish implementing it and use it to fully test your SuperAnagram code. If your code passes all of these tests your code is likely to get max points for computational thinking.
 
 ### SuperAnagram Test Cases
 
